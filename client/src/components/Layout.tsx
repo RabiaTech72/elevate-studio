@@ -107,7 +107,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             <div>
               <div className="flex-col items-center gap-1 mb-4">
                 <img
-                  src="/logo.png"
+                  src="/images/logo.png"
                   alt="Elevate Studio Logo"
                   className="w-30 h-30 object-cover"
                 />
