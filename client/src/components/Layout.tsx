@@ -193,7 +193,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
               </p>
               <p className="text-sm text-gray-400 mb-4">Based in Pakistan</p>
               <a
-                href="https://wa.me/1234567890"
+                href="https://wa.me/923495108848"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block px-4 py-2 bg-primary text-white rounded-lg hover:bg-primary-light transition-colors text-sm font-medium"

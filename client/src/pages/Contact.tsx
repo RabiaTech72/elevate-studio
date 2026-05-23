@@ -85,12 +85,12 @@ export default function Contact() {
                   <div>
                     <h3 className="font-bold text-charcoal mb-1">WhatsApp</h3>
                     <a
-                      href="https://wa.me/1234567890"
+                      href="https://wa.me/+923495108848"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-primary hover:underline"
                     >
-                      +92 300 1234567
+                      +92 349 5108848
                     </a>
                   </div>
                 </div>
@@ -140,7 +140,7 @@ export default function Contact() {
                       type="text"
                       value={formData.name}
                       onChange={handleChange}
-                      placeholder="John Doe"
+                      placeholder="Your Name"
                       required
                       className="w-full"
                     />
@@ -157,7 +157,7 @@ export default function Contact() {
                       type="email"
                       value={formData.email}
                       onChange={handleChange}
-                      placeholder="john@example.com"
+                      placeholder="you@example.com"
                       required
                       className="w-full"
                     />
@@ -174,7 +174,7 @@ export default function Contact() {
                       type="tel"
                       value={formData.phone}
                       onChange={handleChange}
-                      placeholder="+92 300 1234567"
+                      placeholder="+92 300 0000000"
                       className="w-full"
                     />
                   </div>
